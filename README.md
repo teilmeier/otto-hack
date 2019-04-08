@@ -16,3 +16,4 @@ Helpful information for the otto Hackathon
 * Cognitive Services Dokumentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
 * Cognitive Services API Dokumentation: https://westus.dev.cognitive.microsoft.com/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa
 * Custom Vision: https://www.customvision.ai/
+* IoT DevKit Setup https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-get-started
